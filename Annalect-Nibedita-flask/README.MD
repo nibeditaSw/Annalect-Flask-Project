@@ -8,7 +8,7 @@ Steps to run this project
     4.http://127.0.0.1:5007 (open this link on browser)
   
 Used in this project-
-        1.Python3
+        1.Python3,
         2.Flask
         3.SQLAlchemy
         4.HTML
